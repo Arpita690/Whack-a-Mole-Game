@@ -109,3 +109,7 @@ Yes. Anyone can play the game if they have:
 3.The project files
 4.NetBeans or another Java-supported environment
 No special gaming software is required.
+
+How to download and run project from Github
+Step 1: Open the GitHub Repository Open the project repository: https://github.com/Arpita690/Whack-a-Mole-Game
+ Step 2: Download the Project
